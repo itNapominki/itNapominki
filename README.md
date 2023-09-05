@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![App Screenshot](https://napominki.ru/wp-content/uploads/2022/07/cropped-logo.png)
 <!--
 **itNapominki/itNapominki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
